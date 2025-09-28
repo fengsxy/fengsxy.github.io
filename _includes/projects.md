@@ -5,6 +5,26 @@
 
 <!-- Selected publications. Please refer to my <a href="https://scholar.google.com/citations?user=JQnsB8MAAAAJ&hl=en">Google Scholar</a> for a full paper list. -->
 
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/mmg.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">NeurIPS 2025 (Workshop)</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2509.20609">MMG: Mutual Information Estimation via the MMSE Gap in Diffusion</a></div>
+    <div class="author"><strong>Longxuan Yu</strong>, Xing Shi, Xianghao Kong, Tong Jia, Greg Ver Steeg</div>
+    <div class="periodical"><em>Structured Probabilistic Inference & Generative Modeling@NeurIPS 2025 Workshop</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2509.20609" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>  
+      <a href="https://arxiv.org/pdf/2509.20609" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>  
+    </div>
+  </div>
+</div>
+</li>
+
 
 <li>
 <div class="pub-row">
@@ -28,25 +48,7 @@
 </li>
 
 
-<li>
-<div class="pub-row">
 
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/mmg.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">NeurIPS 2025 (Workshop)</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2509.20609">MMG: Mutual Information Estimation via the MMSE Gap in Diffusion</a></div>
-    <div class="author"><strong>Longxuan Yu</strong>, Xing Shi, Xianghao Kong, Tong Jia, Greg Ver Steeg</div>
-    <div class="periodical"><em>Structured Probabilistic Inference & Generative Modeling@NeurIPS 2025 Workshop</em></div>
-    <div class="links">
-      <a href="https://arxiv.org/abs/2509.20609" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>  
-      <a href="https://arxiv.org/pdf/2509.20609" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>  
-    </div>
-  </div>
-</div>
-</li>
 
 
 <li>
