@@ -41,9 +41,3 @@ exclude:
   - README_de.md
   - LICENSE
   - minimal-light.gemspec
-
-nav:
-  - name: Home
-    link: /
-  - name: Thoughts
-    link: /thoughts/
