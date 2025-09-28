@@ -1,0 +1,43 @@
+url: "https://fengsxy.github.io"
+baseurl: ""   # 仓库名是 fengsxy.github.io 时留空
+
+title: Longxuan Yu (Ted)
+
+position: Ph.D. Student
+
+affiliation: Department of Computer Science & Engineering, University of California, Riverside
+affiliation_link: https://www.cs.ucr.edu/
+
+email: ylong030@ucr.edu
+
+# SEO
+keywords: diffusion models, representation learning
+description: Personal academic homepage of Longxuan (Ted) Yu, Ph.D. student at UCR. Research interests include diffusion models, representation learning, and privacy-aware machine learning.
+canonical: https://fengsxy.github.io/
+
+# Links
+google_scholar: https://scholar.google.com/citations?user=RVy_zbgAAAAJ
+#cv_link: assets/files/Longxuan_Yu_CV.pdf
+github_link: https://github.com/fengsxy
+linkedin: https://www.linkedin.com/in/longxuan-yu-123456789/
+# twitter:
+
+# Images
+avatar: ./assets/img/ID_Photo.jpg
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon.png
+
+enable_footnote: false
+
+# Theme
+remote_theme: yaoyao-liu/minimal-light
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - README_zh_Hans.md
+  - README_zh_Hant.md
+  - README_de.md
+  - LICENSE
+  - minimal-light.gemspec
