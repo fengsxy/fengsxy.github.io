@@ -35,8 +35,7 @@ If you want to know more about my research or potential collaborations, feel fre
 ## Honors and Awards
 - 2024, **ACM CCS Distinguished Paper Award** (*Moderator: Moderating Text-to-Image Diffusion Models through Fine-grained Context-based Policies*)  
 - 2023, Outstanding Graduate, Hangzhou Dianzi University  
-- 2022, National Scholarship (top student award in China)  
-- 2020, Outstanding Undergraduate Student Award  
+- 2022, National Scholarship 
 
 
 
