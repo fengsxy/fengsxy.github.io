@@ -18,8 +18,9 @@ If you want to know more about my research or potential collaborations, feel fre
 
 ## Academic Experience
 - 2025.09 – present, Ph.D. Student, <a href="https://www.cs.ucr.edu/">Department of Computer Science and Engineering</a>, UCR  
-  Research Area: Diffusion models, Representation learning, Information-theoretic methods  
   Advisor: <a href="https://www.cs.ucr.edu/~gverstee/">Prof. Greg Ver Steeg</a>
+  Research Area: Diffusion models, Representation learning, Information-theoretic methods  
+  
 
 - 2023.09 – 2025.06, Research Assistant, <a href="https://datascience.ucsd.edu/">Halıcıoğlu Data Science Institute (HDSI)</a>, UCSD  
   Advisor: <a href="https://hao-jian.com/">Prof. Haojian Jin</a>  
