@@ -43,6 +43,13 @@ If you want to know more about my research or potential collaborations, feel fre
 
 
 
+## Essay Blog
+
+I keep a bilingual essay blog where I jot down research reflections and life notes.
+- [Chinese version](https://fengsxy.github.io/essay/)
+- [English version](https://fengsxy.github.io/essay/tag/en/)
+
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">

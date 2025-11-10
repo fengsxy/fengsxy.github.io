@@ -19,7 +19,6 @@
     <div class="periodical"><em>Structured Probabilistic Inference & Generative Modeling@NeurIPS 2025 Workshop</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2509.20609" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>  
-      <a href="https://arxiv.org/pdf/2509.20609" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>  
     </div>
   </div>
 </div>
@@ -40,7 +39,6 @@
     <div class="periodical"><em>NAACL, 2025.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2410.16676" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>  
-      <a href="https://aclanthology.org/2025.naacl-long.622.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>  
       <a href="https://github.com/chendl02/Awesome-LLM-causal-reasoning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Resources</a>  
     </div>
   </div>
@@ -65,7 +63,6 @@
     <div class="periodical"><em>ACM CCS, 2024. <strong>Distinguished Paper Award</strong></em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2408.07728" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>  
-      <a href="https://arxiv.org/pdf/2408.07728" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>  
       <a href="https://github.com/DataSmithLab/Moderator" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>  
     </div>
   </div>
