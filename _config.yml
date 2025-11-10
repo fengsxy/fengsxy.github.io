@@ -1,5 +1,5 @@
 url: "https://fengsxy.github.io"
-baseurl: ""   # ä»“åº“åæ˜¯ fengsxy.github.io æ—¶ç•™ç©º
+baseurl: ""   # ²Ö¿âÃûÊÇ fengsxy.github.io Ê±Áô¿Õ
 
 title: Longxuan Yu (Ted)
 
@@ -21,6 +21,8 @@ google_scholar: https://scholar.google.com/citations?user=RVy_zbgAAAAJ
 github_link: https://github.com/fengsxy
 linkedin: https://www.linkedin.com/in/longxuan-yu-1277b1271/
 # twitter:
+essay_cn: https://fengsxy.github.io/essay/
+essay_en: https://fengsxy.github.io/essay/tag/en/
 
 # Images
 avatar: ./assets/img/ID_Photo.jpg
