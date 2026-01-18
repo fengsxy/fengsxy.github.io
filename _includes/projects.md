@@ -9,6 +9,25 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/arkinator.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">SIGCHI 2026</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">PrivacyAkinator: Articulating Key Privacy Design Decisions by Answering LLM-Generated Multiple-choice Questions</div>
+    <div class="author">Qiyu Li, Yuen Sum Wong, Yuen Kei Wong, <strong>Longxuan Yu</strong>, Haojian Jin</div>
+    <div class="periodical"><em>ACM CHI, 2026.</em></div>
+    <div class="links">
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/mmg.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">NeurIPS 2025 (Workshop)</abbr>
   </div>
