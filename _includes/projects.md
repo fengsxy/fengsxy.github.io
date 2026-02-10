@@ -9,6 +9,44 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/soft_support.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv 2026</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2602.00286">Generation Order and Parallel Decoding in Masked Diffusion Models: An Information-Theoretic Perspective</a></div>
+    <div class="author">S Zhang, <strong>Longxuan Yu</strong>, R Brekelmans, L Tang, S Asif, GV Steeg</div>
+    <div class="periodical"><em>arXiv preprint arXiv:2602.00286, 2026.</em></div>
+    <div class="links">
+       <a href="https://arxiv.org/abs/2602.00286" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/thinkout.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv 2026</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2601.22035">Thinking Out of Order: When Output Order Stops Reflecting Reasoning Order in Diffusion Language Models</a></div>
+    <div class="author"><strong>Longxuan Yu</strong>, Y Fu, S Zhang, H Liu, GV Steeg, Y Dong</div>
+    <div class="periodical"><em>arXiv preprint arXiv:2601.22035, 2026.</em></div>
+    <div class="links">
+       <a href="https://arxiv.org/abs/2601.22035" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/arkinator.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">SIGCHI 2026</abbr>
   </div>
