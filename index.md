@@ -6,9 +6,9 @@ layout: homepage
 
 Hi! I am Longxuan (Ted) Yu, a Ph.D. student (2025.09 -- ) in the <a href="https://www.cs.ucr.edu/">Department of Computer Science and Engineering</a> at the <a href="https://www.ucr.edu/">University of California, Riverside (UCR)</a>. My advisor is <a href="https://www.cs.ucr.edu/~gverstee/">Prof. Greg Ver Steeg</a>.  
 
-```markdown
+
 Before joining UCR, I received my M.S. in Data Science from the <a href="https://ucsd.edu/">University of California, San Diego (UCSD)</a>, where I worked with <a href="https://www.haojianj.in/home.html">Prof. Haojian Jin</a> on trustworthy AI and generative models. I obtained my B.Eng. in Computer Science from <a href="https://en.hdu.edu.cn/">Hangzhou Dianzi University (HDU)</a>.
-```
+
 
 My current research interests lie in **Diffusion Models**, **Representation Learning**, and **Information-theoretic Methods**. I am particularly interested in the theoretical foundations of generative modeling, mutual information estimation, and how representation learning can support generalization across modalities and domains.  
 
