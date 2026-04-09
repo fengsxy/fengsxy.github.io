@@ -45,6 +45,99 @@ If you want to know more about my research or potential collaborations, feel fre
 
 
 
+<style>
+  .vibe-products {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 20px;
+    padding: 10px 0;
+  }
+  .vibe-card {
+    border: 1px solid #e5e5e5;
+    border-radius: 10px;
+    overflow: hidden;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  .vibe-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+  }
+  .vibe-card a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+  }
+  .vibe-card img {
+    width: 100%;
+    height: 170px;
+    object-fit: cover;
+    border-bottom: 1px solid #e5e5e5;
+  }
+  .vibe-card-body {
+    padding: 12px 15px;
+  }
+  .vibe-card-body h4 {
+    margin: 0 0 6px;
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: #222;
+  }
+  .vibe-card-body p {
+    margin: 0;
+    font-size: 0.85rem;
+    color: #666;
+    line-height: 1.4;
+  }
+  @media (prefers-color-scheme: dark) {
+    .vibe-card {
+      border-color: #555;
+      background: #4a4a4a;
+    }
+    .vibe-card img {
+      border-bottom-color: #555;
+    }
+    .vibe-card-body h4 { color: #eee; }
+    .vibe-card-body p { color: #bbb; }
+    .vibe-card:hover {
+      box-shadow: 0 6px 20px rgba(0,0,0,0.3);
+    }
+  }
+</style>
+
+## Vibe Coding Products
+
+Small tools I built with vibe coding. More to come!
+
+<div class="vibe-products">
+  <div class="vibe-card">
+    <a href="https://paste.lightsoul.xyz/" target="_blank">
+      <img src="assets/img/vibe/pair_paste.png" alt="Pair Paste">
+      <div class="vibe-card-body">
+        <h4>Pair Paste</h4>
+        <p>Cross-device clipboard sharing via 6-digit codes. No login needed.</p>
+      </div>
+    </a>
+  </div>
+  <div class="vibe-card">
+    <a href="https://lightsoul.xyz/" target="_blank">
+      <img src="assets/img/vibe/lightsoul.png" alt="LightSoul">
+      <div class="vibe-card-body">
+        <h4>LightSoul</h4>
+        <p>Calorie tracking and diet logging app with daily nutrition breakdown.</p>
+      </div>
+    </a>
+  </div>
+  <div class="vibe-card">
+    <a href="https://fengsxy.github.io/openclaw-tracing/" target="_blank">
+      <img src="assets/img/vibe/openclaw_tracing.png" alt="OpenClaw Tracing">
+      <div class="vibe-card-body">
+        <h4>OpenClaw Tracing</h4>
+        <p>Full-stack observability for AI agents — call tree, entity graph, and SQL analytics.</p>
+      </div>
+    </a>
+  </div>
+</div>
+
 ## Essay Blog
 
 I keep a bilingual essay blog where I jot down research reflections and life notes.
