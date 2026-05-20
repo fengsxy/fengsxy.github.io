@@ -9,6 +9,46 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/opsa.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv 2026</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2605.15239">Reducing the Safety Tax in LLM Safety Alignment with On-Policy Self-Distillation</a></div>
+    <div class="author">Yu Fu, <strong>Longxuan Yu</strong>, Haz Sameen Shahgir, Zhipeng Wei, Hui Liu, N. Benjamin Erichson, Yue Dong</div>
+    <div class="periodical"><em>arXiv preprint arXiv:2605.15239, 2026.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2605.15239" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/dsl.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv 2026</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2605.12836">Discrete Stochastic Localization for Non-autoregressive Generation</a></div>
+    <div class="author">Yunshu Wu, Jiayi Cheng, <strong>Longxuan Yu</strong>, Partha Thakuria, Rob Brekelmans, Evangelos E. Papalexakis, Greg Ver Steeg</div>
+    <div class="periodical"><em>arXiv preprint arXiv:2605.12836, 2026.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2605.12836" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/Sampler.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ICML 2026</abbr>
   </div>
