@@ -29,6 +29,86 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/Sampler.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICML 2026</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2602.19619">Is Your Diffusion Sampler Actually Correct? A Sampler-Centric Evaluation of Discrete Diffusion Language Models</a></div>
+    <div class="author">Luhan Tang, <strong>Longxuan Yu</strong>, Shaorong Zhang, Greg Ver Steeg</div>
+    <div class="periodical"><em>International Conference on Machine Learning (ICML), 2026.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2602.19619" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      <a href="https://luhantang.github.io/dllm_sampler" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/arkinator.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">SIGCHI 2026</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">PrivacyAkinator: Articulating Key Privacy Design Decisions by Answering LLM-Generated Multiple-choice Questions</div>
+    <div class="author">Qiyu Li, Yuen Sum Wong, Yuen Kei Wong, <strong>Longxuan Yu</strong>, Haojian Jin</div>
+    <div class="periodical"><em>ACM CHI, 2026.</em></div>
+    <div class="links">
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/d3im_scope.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv 2026</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2606.01026">Revise, Don't Freeze: Sampler-Matched Training for Self-Correcting Masked Diffusion Language Models</a></div>
+    <div class="author"><strong>Longxuan Yu</strong>, Shaorong Zhang, Yu Fu, Hui Liu, Yue Dong, Greg Ver Steeg</div>
+    <div class="periodical"><em>arXiv preprint arXiv:2606.01026, 2026.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2606.01026" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/dsl_llada.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">arXiv 2026</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2606.01024">DSL-LLaDA: Scaling Continuous Denoising to 8B Masked Diffusion LMs</a></div>
+    <div class="author"><strong>Longxuan Yu</strong>, Yunshu Wu, Yu Fu, Siheng Xiong, Rob Brekelmans, Hui Liu, Yue Dong, Greg Ver Steeg</div>
+    <div class="periodical"><em>arXiv preprint arXiv:2606.01024, 2026.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2606.01024" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/opsa.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">arXiv 2026</abbr>
   </div>
@@ -59,27 +139,6 @@
     <div class="periodical"><em>arXiv preprint arXiv:2605.12836, 2026.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2605.12836" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
-    </div>
-  </div>
-</div>
-</li>
-
-
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/Sampler.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ICML 2026</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2602.19619">Is Your Diffusion Sampler Actually Correct? A Sampler-Centric Evaluation of Discrete Diffusion Language Models</a></div>
-    <div class="author">Luhan Tang, <strong>Longxuan Yu</strong>, Shaorong Zhang, Greg Ver Steeg</div>
-    <div class="periodical"><em>International Conference on Machine Learning (ICML), 2026.</em></div>
-    <div class="links">
-      <a href="https://arxiv.org/abs/2602.19619" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>  
-      <a href="https://luhantang.github.io/dllm_sampler" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>  
     </div>
   </div>
 </div>
@@ -124,27 +183,6 @@
   </div>
 </div>
 </li>
-
-
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/arkinator.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">SIGCHI 2026</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">PrivacyAkinator: Articulating Key Privacy Design Decisions by Answering LLM-Generated Multiple-choice Questions</div>
-    <div class="author">Qiyu Li, Yuen Sum Wong, Yuen Kei Wong, <strong>Longxuan Yu</strong>, Haojian Jin</div>
-    <div class="periodical"><em>ACM CHI, 2026.</em></div>
-    <div class="links">
-    </div>
-  </div>
-</div>
-</li>
-
-
 
 
 <li>
