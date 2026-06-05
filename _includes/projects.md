@@ -99,6 +99,7 @@
     <div class="periodical"><em>arXiv preprint arXiv:2606.01024, 2026.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2606.01024" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      <a href="https://github.com/fengsxy/DSL-LLaDA" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
@@ -134,11 +135,12 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2605.12836">Discrete Stochastic Localization for Non-autoregressive Generation</a></div>
+    <div class="title"><a href="https://arxiv.org/abs/2602.16169">Discrete Stochastic Localization for Non-autoregressive Generation</a></div>
     <div class="author">Yunshu Wu, Jiayi Cheng, <strong>Longxuan Yu</strong>, Partha Thakuria, Rob Brekelmans, Evangelos E. Papalexakis, Greg Ver Steeg</div>
-    <div class="periodical"><em>arXiv preprint arXiv:2605.12836, 2026.</em></div>
+    <div class="periodical"><em>arXiv preprint arXiv:2602.16169, 2026.</em></div>
     <div class="links">
-      <a href="https://arxiv.org/abs/2605.12836" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      <a href="https://arxiv.org/abs/2602.16169" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      <a href="https://yunshuwu.github.io/dsl-project-page/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Blog</a>
     </div>
   </div>
 </div>
@@ -179,6 +181,7 @@
     <div class="periodical"><em>arXiv preprint arXiv:2601.22035, 2026.</em></div>
     <div class="links">
        <a href="https://arxiv.org/abs/2601.22035" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+       <a href="https://github.com/fengsxy/ThinkOutofOrder" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
