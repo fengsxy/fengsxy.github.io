@@ -34,6 +34,10 @@ If you want to know more about my research or potential collaborations, feel fre
 - 2025.03 – 2025.08, Research Assistant, MiraclePlus, Beijing
 - 2023.06 – 2023.09, Software Engineer Intern / OSPP, Xorbits
 
+## Open-Source & Security Contributions
+- **Linux Kernel — CVE-2026-46153** (`VLAN / net/8021q`): Authored the upstream fix [*8021q: delete cleared egress QoS mappings*](https://github.com/torvalds/linux/commit/7dddc74af369478ba7f9bc136d0fc1dc4570cb66), co-developed with Yuan Tan. [CVE advisory](https://nvd.nist.gov/vuln/detail/CVE-2026-46153)
+- **Linux Kernel — CVE-2026-52933** (`io_uring/poll`): Authored the upstream fix [*io_uring/poll: fix signed comparison in io_poll_get_ownership()*](https://github.com/torvalds/linux/commit/326941b22806cbf2df1fbfe902b7908b368cce42), co-developed with Yuan Tan. [CVE advisory](https://nvd.nist.gov/vuln/detail/CVE-2026-52933)
+
 ## Education Experience
 - 2025.09 – present, Ph.D., Computer Science, UCR, USA  
 - 2023.09 – 2025.06, M.S., Data Science, UCSD, USA  
