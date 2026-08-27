@@ -55,10 +55,11 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">PrivacyAkinator: Articulating Key Privacy Design Decisions by Answering LLM-Generated Multiple-choice Questions</div>
+    <div class="title"><a href="https://arxiv.org/abs/2605.20206">PrivacyAkinator: Articulating Key Privacy Design Decisions by Answering LLM-Generated Multiple-choice Questions</a></div>
     <div class="author">Qiyu Li, Yuen Sum Wong, Yuen Kei Wong, <strong>Longxuan Yu</strong>, Haojian Jin</div>
     <div class="periodical"><em>ACM CHI, 2026.</em></div>
     <div class="links">
+      <a href="https://arxiv.org/abs/2605.20206" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
     </div>
   </div>
 </div>
