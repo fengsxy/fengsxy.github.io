@@ -29,6 +29,11 @@ If you want to know more about my research or potential collaborations, feel fre
   Project: *Moderator: Moderating Text-to-Image Diffusion Models through Fine-grained Context-based Policies*  
   Research Area: Diffusion-based generative modeling, Human-centered trustworthy AI  
 
+## Industry & Research Experience
+- 2026.06 – Present, Applied Scientist Intern, AWS, New York
+- 2025.03 – 2025.08, Research Assistant, MiraclePlus, Beijing
+- 2023.06 – 2023.09, Software Engineer Intern / OSPP, Xorbits
+
 ## Education Experience
 - 2025.09 – present, Ph.D., Computer Science, UCR, USA  
 - 2023.09 – 2025.06, M.S., Data Science, UCSD, USA  
