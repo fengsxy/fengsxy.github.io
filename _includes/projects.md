@@ -42,6 +42,7 @@
     <div class="periodical"><em>International Conference on Machine Learning (ICML), 2026.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2602.19619" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      <a href="https://openreview.net/forum?id=oYCCOl7ahf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
       <a href="https://luhantang.github.io/dllm_sampler" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
@@ -63,6 +64,7 @@
     <div class="periodical"><em>ACM CHI, 2026.</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2605.20206" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      <a href="https://dl.acm.org/doi/10.1145/3772318.3790408" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
     </div>
   </div>
 </div>
