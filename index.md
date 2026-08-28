@@ -32,12 +32,13 @@ If you want to know more about my research or potential collaborations, feel fre
 ## Industry & Research Experience
 - 2026.06 – present, Applied Scientist Intern, Amazon Web Services (AWS), New York
 - 2025.03 – 2025.08, Research Assistant, MiraclePlus, Beijing
-- 2023.06 – 2023.09, Software Engineer Intern / OSPP, Xorbits
+- 2023.06 – 2023.09, Software Engineer Intern / OSPP, [Xinference](https://xinference.io/) (formerly Xorbits)
 
 ## Open-Source & Security Contributions
 - **Linux Kernel — CVE-2026-46153** (`VLAN / net/8021q`): Authored the upstream fix [*8021q: delete cleared egress QoS mappings*](https://github.com/torvalds/linux/commit/7dddc74af369478ba7f9bc136d0fc1dc4570cb66), co-developed with Yuan Tan. [CVE advisory](https://nvd.nist.gov/vuln/detail/CVE-2026-46153)
 - **Linux Kernel — CVE-2026-52933** (`io_uring/poll`): Authored the upstream fix [*io_uring/poll: fix signed comparison in io_poll_get_ownership()*](https://github.com/torvalds/linux/commit/326941b22806cbf2df1fbfe902b7908b368cce42), co-developed with Yuan Tan. [CVE advisory](https://nvd.nist.gov/vuln/detail/CVE-2026-52933)
 - **Harbor-Index 1.0 — Contributor**: Listed as an official [Harbor-Index contributor](https://harbor-index.org/contributors/v1). Built the [FeatureBench adapter](https://github.com/harbor-framework/harbor/pull/875) and contributed benchmark dataset conversion, validation, and fixes; four FeatureBench tasks are included in the final [82-task index](https://harbor-index.org/).
+- **Xorbits / OSPP 2023 — Slurm Deployment**: Initiated and developed Slurm deployment support for running Xorbits on HPC clusters, including `sbatch` script generation, job lifecycle management, testing infrastructure, and documentation. Released in [Xorbits v0.7.1](https://github.com/xorbitsai/xorbits/releases/tag/v0.7.1). [Pull Request](https://github.com/xorbitsai/xorbits/pull/719)
 
 ## Education Experience
 - 2025.09 – present, Ph.D., Computer Science, UCR, USA  
