@@ -18,11 +18,21 @@
     <div class="author"><strong>Longxuan Yu</strong>, Xing Shi, Xianghao Kong, Tong Jia, Greg Ver Steeg</div>
     <div class="periodical"><em>Conference on Uncertainty in Artificial Intelligence (UAI), 2026. Poster.</em></div>
     <div class="links">
-      <a href="https://arxiv.org/abs/2509.20609" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
-      <a href="https://proceedings.mlr.press/v337/yu26a.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
-      <a href="https://github.com/fengsxy/Diffusion_MI" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://pypi.org/project/diffusion-mi/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
+      <a href="https://arxiv.org/abs/2509.20609" class="btn btn-sm z-depth-0" target="_blank" rel="noopener noreferrer">arXiv</a>
+      <a href="https://proceedings.mlr.press/v337/yu26a.html" class="btn btn-sm z-depth-0" target="_blank" rel="noopener noreferrer">Paper</a>
+      <a href="https://github.com/fengsxy/Diffusion_MI" title="MMG research and experiment code" class="btn btn-sm z-depth-0 resource-code" target="_blank" rel="noopener noreferrer"><span aria-hidden="true">&lt;/&gt;</span> Code</a>
+      <a href="https://github.com/fengsxy/Diffusion-MI" title="Diffusion-MI: the reusable Python package" class="btn btn-sm z-depth-0 resource-code" target="_blank" rel="noopener noreferrer">Package</a>
     </div>
+    <aside class="software-card" aria-label="Diffusion-MI research software">
+      <a class="software-logo" href="https://github.com/fengsxy/Diffusion-MI" aria-label="Diffusion-MI on GitHub">
+        <img src="assets/img/software/diffusion-mi-logo.png" alt="Diffusion-MI" width="220" loading="lazy">
+      </a>
+      <p class="software-description">A reusable Python package for mutual information estimation, with MMG and seven neural estimators behind a shared <code>fit</code> / <code>estimate</code> interface. For research experiments, use the Code link above.</p>
+      <div class="software-actions">
+        <a href="https://pypi.org/project/diffusion-mi/">Install from PyPI <span aria-hidden="true">&rarr;</span></a>
+        <code class="install-command">pip install diffusion-mi</code>
+      </div>
+    </aside>
   </div>
 </div>
 </li>
@@ -41,9 +51,10 @@
     <div class="author">Luhan Tang, <strong>Longxuan Yu</strong>, Shaorong Zhang, Greg Ver Steeg</div>
     <div class="periodical"><em>International Conference on Machine Learning (ICML), 2026.</em></div>
     <div class="links">
-      <a href="https://arxiv.org/abs/2602.19619" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
-      <a href="https://openreview.net/forum?id=oYCCOl7ahf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
-      <a href="https://luhantang.github.io/dllm_sampler" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://arxiv.org/abs/2602.19619" class="btn btn-sm z-depth-0" target="_blank" rel="noopener noreferrer">arXiv</a>
+      <a href="https://openreview.net/forum?id=oYCCOl7ahf" class="btn btn-sm z-depth-0" target="_blank" rel="noopener noreferrer">Paper</a>
+      <a href="https://luhantang.github.io/dllm_sampler/" class="btn btn-sm z-depth-0" target="_blank" rel="noopener noreferrer">Project</a>
+      <a href="https://github.com/LuhanTang/dllm_sampler" class="btn btn-sm z-depth-0 resource-code" target="_blank" rel="noopener noreferrer"><span aria-hidden="true">&lt;/&gt;</span> Code</a>
     </div>
   </div>
 </div>
@@ -63,8 +74,8 @@
     <div class="author">Qiyu Li, Yuen Sum Wong, Yuen Kei Wong, <strong>Longxuan Yu</strong>, Haojian Jin</div>
     <div class="periodical"><em>ACM CHI, 2026.</em></div>
     <div class="links">
-      <a href="https://arxiv.org/abs/2605.20206" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
-      <a href="https://dl.acm.org/doi/10.1145/3772318.3790408" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+      <a href="https://arxiv.org/abs/2605.20206" class="btn btn-sm z-depth-0" target="_blank" rel="noopener noreferrer">arXiv</a>
+      <a href="https://dl.acm.org/doi/10.1145/3772318.3790408" class="btn btn-sm z-depth-0" target="_blank" rel="noopener noreferrer">Paper</a>
     </div>
   </div>
 </div>
@@ -84,9 +95,9 @@
     <div class="author"><strong>Longxuan Yu</strong>, Yunshu Wu, Yu Fu, Siheng Xiong, Rob Brekelmans, Hui Liu, Yue Dong, Greg Ver Steeg</div>
     <div class="periodical"><em>Findings of the Association for Computational Linguistics: EMNLP 2026.</em></div>
     <div class="links">
-      <a href="https://arxiv.org/abs/2606.01024" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
-      <a href="https://fengsxy.github.io/DSL-LLaDA-Website/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Demo</a>
-      <a href="https://github.com/fengsxy/DSL-LLaDA" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://arxiv.org/abs/2606.01024" class="btn btn-sm z-depth-0" target="_blank" rel="noopener noreferrer">arXiv</a>
+      <a href="https://fengsxy.github.io/DSL-LLaDA-Website/" class="btn btn-sm z-depth-0" target="_blank" rel="noopener noreferrer">Demo</a>
+      <a href="https://github.com/fengsxy/DSL-LLaDA" class="btn btn-sm z-depth-0 resource-code" target="_blank" rel="noopener noreferrer"><span aria-hidden="true">&lt;/&gt;</span> Code</a>
     </div>
   </div>
 </div>
@@ -106,7 +117,7 @@
     <div class="author"><strong>Longxuan Yu</strong>, Shaorong Zhang, Yu Fu, Hui Liu, Yue Dong, Greg Ver Steeg</div>
     <div class="periodical"><em>arXiv preprint arXiv:2606.01026, 2026.</em></div>
     <div class="links">
-      <a href="https://arxiv.org/abs/2606.01026" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      <a href="https://arxiv.org/abs/2606.01026" class="btn btn-sm z-depth-0" target="_blank" rel="noopener noreferrer">arXiv</a>
     </div>
   </div>
 </div>
@@ -126,7 +137,7 @@
     <div class="author">Yu Fu, <strong>Longxuan Yu</strong>, Haz Sameen Shahgir, Zhipeng Wei, Hui Liu, N. Benjamin Erichson, Yue Dong</div>
     <div class="periodical"><em>arXiv preprint arXiv:2605.15239, 2026.</em></div>
     <div class="links">
-      <a href="https://arxiv.org/abs/2605.15239" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      <a href="https://arxiv.org/abs/2605.15239" class="btn btn-sm z-depth-0" target="_blank" rel="noopener noreferrer">arXiv</a>
     </div>
   </div>
 </div>
@@ -146,8 +157,8 @@
     <div class="author">Yunshu Wu, Jiayi Cheng, <strong>Longxuan Yu</strong>, Partha Thakuria, Rob Brekelmans, Evangelos E. Papalexakis, Greg Ver Steeg</div>
     <div class="periodical"><em>arXiv preprint arXiv:2602.16169, 2026.</em></div>
     <div class="links">
-      <a href="https://arxiv.org/abs/2602.16169" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
-      <a href="https://yunshuwu.github.io/dsl-project-page/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Blog</a>
+      <a href="https://arxiv.org/abs/2602.16169" class="btn btn-sm z-depth-0" target="_blank" rel="noopener noreferrer">arXiv</a>
+      <a href="https://yunshuwu.github.io/dsl-project-page/" class="btn btn-sm z-depth-0" target="_blank" rel="noopener noreferrer">Blog</a>
     </div>
   </div>
 </div>
@@ -167,7 +178,7 @@
     <div class="author">S Zhang, <strong>Longxuan Yu</strong>, R Brekelmans, L Tang, S Asif, GV Steeg</div>
     <div class="periodical"><em>arXiv preprint arXiv:2602.00286, 2026.</em></div>
     <div class="links">
-       <a href="https://arxiv.org/abs/2602.00286" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+       <a href="https://arxiv.org/abs/2602.00286" class="btn btn-sm z-depth-0" target="_blank" rel="noopener noreferrer">arXiv</a>
     </div>
   </div>
 </div>
@@ -187,8 +198,8 @@
     <div class="author"><strong>Longxuan Yu</strong>, Y Fu, S Zhang, H Liu, GV Steeg, Y Dong</div>
     <div class="periodical"><em>arXiv preprint arXiv:2601.22035, 2026.</em></div>
     <div class="links">
-       <a href="https://arxiv.org/abs/2601.22035" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
-       <a href="https://github.com/fengsxy/ThinkOutofOrder" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+       <a href="https://arxiv.org/abs/2601.22035" class="btn btn-sm z-depth-0" target="_blank" rel="noopener noreferrer">arXiv</a>
+       <a href="https://github.com/fengsxy/ThinkOutofOrder" class="btn btn-sm z-depth-0 resource-code" target="_blank" rel="noopener noreferrer"><span aria-hidden="true">&lt;/&gt;</span> Code</a>
     </div>
   </div>
 </div>
@@ -208,8 +219,8 @@
     <div class="author"><strong>Longxuan Yu</strong>, Delin Chen, Siheng Xiong, Qingyang Wu, Qingzhen Liu, Dawei Li, Zhikai Chen, Xiaoze Liu, Liangming Pan</div>
     <div class="periodical"><em>NAACL, 2025.</em></div>
     <div class="links">
-      <a href="https://arxiv.org/abs/2410.16676" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>  
-      <a href="https://github.com/chendl02/Awesome-LLM-causal-reasoning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Resources</a>  
+      <a href="https://arxiv.org/abs/2410.16676" class="btn btn-sm z-depth-0" target="_blank" rel="noopener noreferrer">arXiv</a>
+      <a href="https://github.com/chendl02/Awesome-LLM-causal-reasoning" class="btn btn-sm z-depth-0" target="_blank" rel="noopener noreferrer">Resources</a>
     </div>
   </div>
 </div>
@@ -229,8 +240,8 @@
     <div class="author">Peiran Wang, Qiyu Li, <strong>Longxuan Yu</strong>, Ziyao Wang, Ang Li, Haojian Jin</div>
     <div class="periodical"><em>ACM CCS, 2024. <strong>Distinguished Paper Award</strong></em></div>
     <div class="links">
-      <a href="https://arxiv.org/abs/2408.07728" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>  
-      <a href="https://github.com/DataSmithLab/Moderator" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>  
+      <a href="https://arxiv.org/abs/2408.07728" class="btn btn-sm z-depth-0" target="_blank" rel="noopener noreferrer">arXiv</a>
+      <a href="https://github.com/DataSmithLab/Moderator" class="btn btn-sm z-depth-0 resource-code" target="_blank" rel="noopener noreferrer"><span aria-hidden="true">&lt;/&gt;</span> Code</a>
     </div>
   </div>
 </div>
