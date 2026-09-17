@@ -247,7 +247,7 @@ screen and (min-width: 480px) {
   outline: 2px solid #158078;
   outline-offset: 3px;
 }
-.publications .software-card {
+.open-source .software-card {
   margin: 13px 0 8px;
   padding: 14px 16px;
   border: 1px solid #d5e7e1;
@@ -255,33 +255,33 @@ screen and (min-width: 480px) {
   border-radius: 8px;
   background: #f7fbfa;
 }
-.publications .software-logo {
+.open-source .software-logo {
   display: inline-block;
   max-width: 100%;
   border-radius: 5px;
   background: #fff;
 }
-.publications .software-logo img {
+.open-source .software-logo img {
   display: block;
   width: 220px;
   max-width: 100%;
   height: auto;
 }
-.publications .software-description {
+.open-source .software-description {
   margin: 6px 0 10px;
   color: #4b5c57;
   font-size: 14px;
   line-height: 1.5;
 }
-.publications .software-actions {
+.open-source .software-actions {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
   gap: 8px 14px;
   font: 500 12px/1.5 system-ui, sans-serif;
 }
-.publications .software-actions a { color: #075e61; }
-.publications .install-command {
+.open-source .software-actions a { color: #075e61; }
+.open-source .install-command {
   padding: 5px 8px;
   border-radius: 4px;
   background: #e8f1ee;
@@ -296,7 +296,7 @@ screen and (min-width: 480px) {
   .publications .pub-row { display: block; }
   .publications .pub-row > .col-sm-9 { box-sizing: border-box; }
   .publications ol.bibliography li .links a.btn { min-height: 40px; }
-  .publications .software-card { padding: 12px; }
+  .open-source .software-card { padding: 12px; }
 }
 @media (prefers-color-scheme: dark) {
   .publications ol.bibliography li .links a.btn {
@@ -309,8 +309,8 @@ screen and (min-width: 480px) {
     border-color: #568d82;
     background: #253e39;
   }
-  .publications .software-card { background: #253832; border-color: #4b7366; }
-  .publications .software-description { color: #d0e0d8; }
-  .publications .software-actions a { color: #a4e3d7; }
-  .publications .install-command { background: #344c43; color: #e1f1e8; }
+  .open-source .software-card { background: #253832; border-color: #4b7366; }
+  .open-source .software-description { color: #d0e0d8; }
+  .open-source .software-actions a { color: #a4e3d7; }
+  .open-source .install-command { background: #344c43; color: #e1f1e8; }
 }

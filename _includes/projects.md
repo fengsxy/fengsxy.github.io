@@ -23,16 +23,6 @@
       <a href="https://github.com/fengsxy/Diffusion_MI" title="MMG research and experiment code" class="btn btn-sm z-depth-0 resource-code" target="_blank" rel="noopener noreferrer"><span aria-hidden="true">&lt;/&gt;</span> Code</a>
       <a href="https://github.com/fengsxy/Diffusion-MI" title="Diffusion-MI: the reusable Python package" class="btn btn-sm z-depth-0 resource-code" target="_blank" rel="noopener noreferrer">Package</a>
     </div>
-    <aside class="software-card" aria-label="Diffusion-MI research software">
-      <a class="software-logo" href="https://github.com/fengsxy/Diffusion-MI" aria-label="Diffusion-MI on GitHub">
-        <img src="assets/img/software/diffusion-mi-logo.png" alt="Diffusion-MI" width="220" loading="lazy">
-      </a>
-      <p class="software-description">A reusable Python package for mutual information estimation, with MMG and seven neural estimators behind a shared <code>fit</code> / <code>estimate</code> interface. For research experiments, use the Code link above.</p>
-      <div class="software-actions">
-        <a href="https://pypi.org/project/diffusion-mi/">Install from PyPI <span aria-hidden="true">&rarr;</span></a>
-        <code class="install-command">pip install diffusion-mi</code>
-      </div>
-    </aside>
   </div>
 </div>
 </li>
