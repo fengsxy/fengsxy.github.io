@@ -116,6 +116,8 @@ If you want to know more about my research or potential collaborations, feel fre
   }
 </style>
 
+{% comment %}
+Temporarily hidden from the homepage; retain project content for restoration.
 ## Vibe Coding Products
 
 Small tools I built with vibe coding. More to come!
@@ -149,6 +151,8 @@ Small tools I built with vibe coding. More to come!
     </a>
   </div>
 </div>
+
+{% endcomment %}
 
 ## Essay Blog
 
