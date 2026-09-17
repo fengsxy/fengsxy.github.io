@@ -66,6 +66,7 @@
     <div class="links">
       <a href="https://arxiv.org/abs/2605.20206" class="btn btn-sm z-depth-0" target="_blank" rel="noopener noreferrer">arXiv</a>
       <a href="https://dl.acm.org/doi/10.1145/3772318.3790408" class="btn btn-sm z-depth-0" target="_blank" rel="noopener noreferrer">Paper</a>
+      <a href="https://github.com/AISmithLab/PrivacyAkinator" class="btn btn-sm z-depth-0 resource-code" target="_blank" rel="noopener noreferrer"><span aria-hidden="true">&lt;/&gt;</span> Code</a>
     </div>
   </div>
 </div>
