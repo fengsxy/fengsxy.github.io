@@ -3,7 +3,7 @@ baseurl: ""   # Leave empty when repository is fengsxy.github.io
 
 title: Longxuan Yu (Ted)
 
-position: Ph.D. Student
+position: Second-year Ph.D. Student
 
 affiliation: Department of Computer Science & Engineering, University of California, Riverside
 affiliation_link: https://www.cs.ucr.edu/
@@ -12,7 +12,7 @@ email: ylong030@ucr.edu
 
 # SEO
 keywords: diffusion models, representation learning
-description: Personal academic homepage of Longxuan (Ted) Yu, Ph.D. student at UCR. Research interests include diffusion models, representation learning, and privacy-aware machine learning.
+description: Personal academic homepage of Longxuan (Ted) Yu, a second-year Ph.D. student at UCR. Research interests include diffusion models, representation learning, and privacy-aware machine learning.
 canonical: https://fengsxy.github.io/
 
 # Links
