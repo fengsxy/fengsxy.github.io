@@ -76,6 +76,28 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://opengraph.githubassets.com/1/harbor-framework/harbor-index" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">NeurIPS 2026</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2609.04298">Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation</a></div>
+    <div class="author">Lin Shi, Haowei Lin, Zixuan Zhu, Xiaoyue Zhou, Xiang Li, ..., <strong>Longxuan Yu</strong>, et al.</div>
+    <div class="periodical"><em>NeurIPS 2026 Evaluations and Datasets Track. Poster.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/abs/2609.04298" class="btn btn-sm z-depth-0" target="_blank" rel="noopener noreferrer">arXiv</a>
+      <a href="https://harbor-index.org/" class="btn btn-sm z-depth-0" target="_blank" rel="noopener noreferrer">Project</a>
+      <a href="https://github.com/harbor-framework/harbor" class="btn btn-sm z-depth-0 resource-code" target="_blank" rel="noopener noreferrer"><span aria-hidden="true">&lt;/&gt;</span> Code</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/arkinator.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">SIGCHI 2026</abbr>
   </div>
