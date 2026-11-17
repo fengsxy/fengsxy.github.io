@@ -154,6 +154,10 @@ Small tools I built with vibe coding. More to come!
 
 {% endcomment %}
 
+## Research Blog
+
+- [LoopUno: What Can Lossless Diffusion Drafting Buy in One Hour?](https://fengsxy.github.io/LoopUno/blog/) One hour of LoRA training brings lossless diffusion drafting to a looped agentic LLM, and function calls decode 2× faster. [Project page](https://fengsxy.github.io/LoopUno/) · [Code](https://github.com/fengsxy/LoopUno)
+
 ## Essay Blog
 
 I keep a bilingual essay blog where I jot down research reflections and life notes.
